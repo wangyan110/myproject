@@ -1,0 +1,12 @@
+html,
+body,
+.wrap{height: 100%;width: 100%}
+.navgation li{float: left;list-style: none}
+.navgation li a{text-decoration: none;color: #fff;margin-right: 30px;border-bottom:1px solid #333}
+.navgation li a:hover{color:#f90;border-bottom:1px solid #f90}
+.header{background: #333;color: #fff;height: 80px}
+.header img{display: inline-block;vertical-align: middle}
+.header .navgation{display: inline-block;vertical-align: middle}
+.bodywrap{position:relative;}
+.footer{position: absolute;bottom: 0;width: 100%}
+.list li{float:left;margin:10px;text-align: center;padding: 10px 20px;border:1px solid #f90}
